@@ -1,13 +1,13 @@
 {
   "name": "wdio-cucumber-reporter",
-  "version": "0.0.1",
-  "description": "A WebdriverIO plugin. Report results in spec format.",
+  "version": "0.0.2",
+  "description": "A WebdriverIO plugin. Report results in cucumber format.",
   "author": "Andrew Keig <andrew.keig@gmail.com>",
   "homepage": "https://github.com/andrewkeig/wdio-cucumber-reporter#readme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewkeig/wdio-cucumber-reporter.git"
+    "url": "https://github.com/andrewkeig/wdio-cucumber-reporter.git"
   },
   "main": "build/reporter.js",
   "directories": {
