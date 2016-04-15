@@ -1,4 +1,4 @@
-WDIO cucumber reporter
+# WDIO cucumber reporter
 
 [![build status](https://travis-ci.org/AndrewKeig/wdio-cucumber-reporter.svg?branch=master)](http://travis-ci.org/AndrewKeig/wdio-cucumber-reporter)
 ==========
