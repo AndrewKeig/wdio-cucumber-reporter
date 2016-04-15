@@ -1,5 +1,6 @@
 WDIO cucumber reporter
-[![Build Status](https://travis-ci.org/andrewkeig/wdio-cucumber-reporter.svg?branch=master)](https://travis-ci.org/andrewkeig/wdio-cucumber-reporter)
+
+[![build status](https://travis-ci.org/AndrewKeig/wdio-cucumber-reporter.svg?branch=master)](http://travis-ci.org/AndrewKeig/wdio-cucumber-reporter)
 ==========
 
 > A WebdriverIO plugin to report in cucumber style, WIP.
