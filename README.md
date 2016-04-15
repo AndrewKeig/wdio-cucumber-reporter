@@ -1,4 +1,5 @@
-WDIO cucumber reporter [![Build Status](https://travis-ci.org/webdriverio/wdio-cucumber-reporter.svg?branch=master)](https://travis-ci.org/webdriverio/wdio-cucumber-reporter) [![Code Climate](https://codeclimate.com/github/andrewkeig/wdio-cucumber-reporter/badges/gpa.svg)](https://codeclimate.com/github/andrewkeig/wdio-cucumber-reporter) [![Test Coverage](https://codeclimate.com/github/andrewkeig/wdio-cucumber-reporter/badges/coverage.svg?)](https://codeclimate.com/github/andrewkeig/wdio-cucumber-reporter/coverage)
+WDIO cucumber reporter
+[![Build Status](https://travis-ci.org/andrewkeig/wdio-cucumber-reporter.svg?branch=master)](https://travis-ci.org/andrewkeig/wdio-cucumber-reporter)
 ==========
 
 > A WebdriverIO plugin to report in cucumber style, WIP.
