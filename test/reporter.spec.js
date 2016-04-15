@@ -1,6 +1,6 @@
 import sinon from 'sinon'
 import events from 'events'
-import cucumberReporter from '../lib/reporter'
+import CucumberReporter from '../lib/reporter'
 
 class BaseReporter extends events.EventEmitter {
     get color () {
