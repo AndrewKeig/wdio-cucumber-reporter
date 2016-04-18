@@ -42,3 +42,6 @@ module.exports = {
 ----
 
 For more information on WebdriverIO see the [homepage](http://webdriver.io).
+
+## Testing
+```docker-compose run tests``` or ```npm install && npm run test```
