@@ -3,7 +3,7 @@ import events from 'events'
 import CucumberReporter from '../lib/reporter'
 
 class BaseReporter extends events.EventEmitter {
-    get color () {
+    color () {
         return 'some color'
     }
 }
@@ -45,7 +45,7 @@ describe('cucumber reporter', () => {
 
     it('should print custom epilogue when test ends', () => {
         reporter.printEpilogueEnd = sinon.spy()
-        reporter.emit('test:end')
+        reporter.emit('end')
         reporter.printEpilogueEnd.calledWith(null).should.be.true
     })
 
